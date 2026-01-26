@@ -2,13 +2,22 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.mycompany</groupId>
+<<<<<<< HEAD
     <artifactId>BTchapter2</artifactId>
+=======
+    <artifactId>BTchapter1</artifactId>
+>>>>>>> 511eef1a10426162a686acdda8c4286b6f1e544d
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>25</maven.compiler.release>
+<<<<<<< HEAD
         <exec.mainClass>com.mycompany.btchapterhai.BTchapterhai</exec.mainClass>
     </properties>
     <name>BTchapter2</name>
+=======
+        <exec.mainClass>com.mycompany.btchapter1.BTchapter1</exec.mainClass>
+    </properties>
+>>>>>>> 511eef1a10426162a686acdda8c4286b6f1e544d
 </project>
